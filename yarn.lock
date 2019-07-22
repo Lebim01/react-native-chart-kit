@@ -6651,7 +6651,7 @@ react-native-branch@2.2.5:
 
 react-native-gesture-handler@1.0.4:
   version "1.0.4"
-  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-1.0.4.tgz#1cc13eeffe34dcd6fe4f415c05b08823de9c7584"
+  resolved "https://github.com/Lebim01/react-native-gesture-handler.git"
   dependencies:
     hoist-non-react-statics "^2.3.1"
     invariant "^2.2.2"
